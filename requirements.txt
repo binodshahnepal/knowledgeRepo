@@ -1,0 +1,15 @@
+streamlit
+python-dotenv
+google-generativeai
+sentence-transformers
+faiss-cpu
+pandas
+openpyxl
+pypdf
+python-docx
+sqlalchemy
+pyodbc
+tabulate
+numpy
+psycopg2-binary
+pymysql
